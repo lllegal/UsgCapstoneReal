@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67164821594",
+    "project_id": "usg-capstone",
+    "storage_bucket": "usg-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67164821594:android:8b542923626ebc3f2be063",
+        "android_client_info": {
+          "package_name": "com.example.USGcap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mYOVZBytZMcpxlNywMs9FPbGG8_At6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
